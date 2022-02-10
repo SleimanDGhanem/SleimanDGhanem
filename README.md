@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
-- [Markdown Tips &amp; Tricks 2022 - Markdown Crash Course](https://www.youtube.com/watch?v=ftOBvusMHjQ)
-- [STACKr News Weekly: FAANG, 2022 Developer Roadmap, In-Demand Tech Roles](https://www.youtube.com/watch?v=Cl1hMoUlXfE)
 - [Top VS Code Updates | v1.64 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=0GtjzEI0XmQ)
 - [How to Check Ownership of an NFT in your Collection using MetaMask &amp; Netlify Functions!! 😻](https://www.youtube.com/watch?v=g2h-N_E1up0)
+- [STACKr News Weekly: Trade Stocks with JavaScript, Create an NFT Landing Page, Ultimate Pandas Guide!](https://www.youtube.com/watch?v=_fuYgCxbvLw)
+- [How To Google Like A Pro! Top 18 Google Search Tips &amp; Tricks 2022](https://www.youtube.com/watch?v=LrVN52dhRxY)
+- [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -64,7 +64,7 @@
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
