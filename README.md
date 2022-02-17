@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SleimanDGhanem | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="SleimanDGhanem | LinkedIn"  src="images/linkedin.svg" />][linkedin]
 
 [<img alt="SleimanDGhanem | Outlook" src="images/outlook.svg"/>][outlook]
 
