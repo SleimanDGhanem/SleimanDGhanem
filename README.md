@@ -27,9 +27,9 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SleimanDGhanem)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
