@@ -26,7 +26,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 ---
-<img align="left" alt="Sleiman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SleimanDGhanem&show_icons=true&hide_border=true"/>
+<img align="left" alt="Sleiman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SleimanDGhanem&count_private=true&show_icons=true&hide_border=true"/>
 
 
 
